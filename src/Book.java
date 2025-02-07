@@ -3,6 +3,7 @@ public class Book {
     public String name;
     //yeni bir field oluşturucam
     public String author;
-
+    //çalışmaya devam....
+    //......tamamlandı
 
 }
