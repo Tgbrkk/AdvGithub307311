@@ -5,5 +5,7 @@ public class MyClass {
         System.out.println("Herkese selamlar:");
         //değişiklik 2
         System.out.println("Advance GitHub dersine hoşgeldiniz");
+        //değişiklik 3
+        System.out.println("Bu derste branchler işlenecek");
     }
 }
