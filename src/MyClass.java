@@ -7,5 +7,7 @@ public class MyClass {
         System.out.println("Advance GitHub dersine hoşgeldiniz");
         //değişiklik 3
         System.out.println("Bu derste branchler işlenecek");
+        //techproda değişiklik
+        System.out.println("yeni branch");
     }
 }
