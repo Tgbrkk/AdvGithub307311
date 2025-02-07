@@ -11,5 +11,11 @@ public class MyClass {
         System.out.println("yeni branch");
         //techproda değişiklik2
         System.out.println("yeni branch");
+
+        //dev branch
+        System.out.println("dev branchteyim");
+        //dev branch
+        System.out.println("yaşasın git*github");
+
     }
 }
