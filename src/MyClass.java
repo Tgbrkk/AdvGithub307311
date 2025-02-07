@@ -16,6 +16,10 @@ public class MyClass {
         System.out.println("dev branchteyim");
         //dev branch
         System.out.println("yaşasın git*github");
+        //techpro değişiklik3
+        System.out.println("techpro");
+
+
 
     }
 }
